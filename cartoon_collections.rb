@@ -19,5 +19,7 @@ end
 def find_the_cheese(chance_of_cheese)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  
+  chance_of_cheese.find { |perhaps_cheese|
+    
+  }
 end
