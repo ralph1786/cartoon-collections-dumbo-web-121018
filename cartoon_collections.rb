@@ -5,8 +5,8 @@ def roll_call_dwarves(dwarve)
 end
 
 def summon_captain_planet(planeteer_calls)
-  planeteer_calls.map { 
-    
+  planeteer_calls.map { |planeteer_call|
+    puts 
   }
 end
 
